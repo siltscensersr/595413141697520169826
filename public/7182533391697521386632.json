@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374551880267",
+    "project_id": "cameraman-skibidi-toilet-6b467",
+    "storage_bucket": "cameraman-skibidi-toilet-6b467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374551880267:android:47f0f4bee21bd7e5d1e3ce",
+        "android_client_info": {
+          "package_name": "com.cameraman.TV_man.skibidi_toilet.wallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rr1-RwRIwjAZK49zVci74IbiJT-ivCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
